@@ -5,16 +5,16 @@ This repository contains Codeforces problems I solved along with my Java solutio
 
 
 
-##Repository Structure
+## Repository Structure
 
 CodeForces/
 │──  2007C-Dora_and_C++.java
 │──  README.md
 
+
 Each Java file follows this format:
 
-The problem link as a comment.
+- The problem link as a comment.
+- A Java solution.
+- The file name follows the format: `ProblemNumber_ProblemTitle.java` (e.g., `2007C-Dora_and_C++.java`).
 
-A Java solution .
-
-The file name follows the format: ProblemNumber_ProblemTitle.java (e.g., 2007C-Dora_and_C++.java).
