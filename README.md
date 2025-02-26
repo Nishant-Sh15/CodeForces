@@ -16,5 +16,5 @@ Each Java file follows this format:
 
 - The problem link as a comment.
 - A Java solution.
-- The file name follows the format: `ProblemNumber_ProblemTitle.java` (e.g., `2007C-Dora_and_C++.java`).
+- The file name follows the format: `ProblemTitle.java` (e.g., `Dora_and_C++.java`).
 
