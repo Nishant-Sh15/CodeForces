@@ -1,7 +1,7 @@
 # CodeForces
 This repository contains Codeforces problems I solved along with my Java solutions. Each file is named after the problem title and includes the full problem link as a comment.
 
-##Repository Structure
+#Repository Structure
 
 CodeForces/
 │──  2007C-Dora_and_C++.java
