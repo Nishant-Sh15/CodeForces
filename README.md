@@ -7,7 +7,7 @@ This repository contains Codeforces problems I solved along with my Java solutio
 
 ## Repository Structure
 
-''' CodeForces/
+''' CodeForces/<br>
 │──  2007C-Dora_and_C++.java
 │──  README.md
 '''
