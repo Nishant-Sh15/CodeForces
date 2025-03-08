@@ -1,5 +1,6 @@
-import java.util.*;
 // https://codeforces.com/problemset/problem/2072/E
+import java.util.*;
+
 public class Do_You_Love_Your_Hero_and_His_Two_Hit_Multi_Target_Attacks{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
