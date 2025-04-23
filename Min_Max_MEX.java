@@ -1,5 +1,5 @@
+// https://codeforces.com/problemset/problem/2093/E
 import java.util.*;
-
 public class Min_Max_MEX {
     static boolean trial(int a[],int t,int k){
         HashSet<Integer> hs=new HashSet<>();
